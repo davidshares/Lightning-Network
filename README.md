@@ -1,4 +1,4 @@
-# Lightning Network
+# Lightning Network ![Lightning Network Flaws](lightning-risk.png "Lightning Network")
 
 ### WARNING: If you try to use the Lightning Network (LN) you are at HIGH RISK of losing funds and is not recommended or safe to do at this time or for the foreseeable future
 
