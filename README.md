@@ -75,6 +75,4 @@ LND node could be coerced into revealing an invoice preimage for a forwarded HTL
 
 October 29, 2020: PSA: High onchain BTC fees have impact for you Lightning Channels: Pre negotiated fees might not be sufficient for your commitment tx to be included in case of force close https://archive.is/ECr4p
 
-***
-
-This post has been immutably persisted here: https://member.cash/p/23020ea19f
+March 28, 2021: Real-life example of a LN user trying to use various Lightning mobile wallets and none of them worked (multiple errors for each) https://archive.is/klS2X
