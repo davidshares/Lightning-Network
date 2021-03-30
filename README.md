@@ -92,7 +92,7 @@ October 23, 2019: 4 BTC stolen using Lightning Network
 
 January 7, 2020: New paper on Lightning Network simulates lower & higher txn rates and summarize the rates of failed txns in Fig 22….at 7,000 transactions per day one-third of them fail https://blog.dshr.org/2020/01/bitcoins-lightning-network.html
 
-January 13, 2020: LN sers are leaking their blockchain data by using centralized Lightning Network node operators and wallets. 90K LN non-cooperative channel closures were identified https://blog.bitmex.com/lightning-network-part-6-over-60000-non-cooperative-channel-closures/
+January 13, 2020: LN users are leaking their blockchain data by using centralized Lightning Network node operators and wallets. 90K LN non-cooperative channel closures were identified https://blog.bitmex.com/lightning-network-part-6-over-60000-non-cooperative-channel-closures/
 
 February 18, 2020: Lightning Network is Vulnerable to Congestion Attacks https://medium.com/blockchains-huji/congestion-attacks-in-payment-channel-networks-b7ac37208389
 
