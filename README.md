@@ -108,4 +108,6 @@ October 29, 2020: PSA: High onchain BTC fees have impact for you Lightning Chann
 
 ### 2021
 
+March 15, 2021: A recap of events over the last 6 years of Lightning Network https://threadreaderapp.com/thread/1366411780633862147.html
+
 March 28, 2021: Real-life example of a LN user trying to use various Lightning mobile wallets and none of them worked (multiple errors for each) https://archive.is/klS2X
