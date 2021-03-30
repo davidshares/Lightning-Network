@@ -71,6 +71,8 @@ March 17, 2019: TIL that Lightning Network conceptual design and focus to layer 
 * https://old.reddit.com/r/btc/comments/b201kd/til_that_lightning_network_conceptual_design_and/
 * https://archive.is/wgmEF
 
+March 21, 2019: Understanding the cost of trapped liquidity in the Lightning Network https://medium.com/@peter_r/understanding-the-cost-of-trapped-liquidity-in-the-lightning-network-part-1-7179a24d5791
+
 March 22, 2019: Lightning Fails to Strike (Again) https://www.youtube.com/watch?v=AzaEd2RQuRw
 
 March 28, 2019: Visualizing HTLCs and the Lightning Network’s Dirty Little Secret https://medium.com/@peter_r/visualizing-htlcs-and-the-lightning-networks-dirty-little-secret-cb9b5773a0
