@@ -16,6 +16,8 @@ February 21, 2018: Bitcoin Lightning Fraud? Laolu Is Building a ‘Watchtower’
 
 March 21, 2018: Lightning Network DDoS Sends 20% of Nodes Down https://www.trustnodes.com/2018/03/21/lightning-network-ddos-sends-20-nodes
 
+June 21, 2018: The 3 biggest LN flaws plus further critiques https://www.quora.com/What-is-the-biggest-flaw-of-the-Bitcoin-Lightning-network/answer/Marius-Kramer
+
 June 25, 2018: Study finds that the probability of routing $200 on LN between any two nodes is 1% https://diar.co/volume-2-issue-25/
 
 October 10, 2018: Watchtowers (third party services) are introduced as a way to monitor your funds when you can't be online 24/7 so they aren't stolen https://medium.com/@akumaigorodski/watchtower-support-is-coming-to-bitcoin-lightning-wallet-8f969ac206b2
