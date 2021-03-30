@@ -2,7 +2,7 @@
 
 **WARNING: If you try to use the Lightning Network (LN) you are at HIGH RISK of losing funds and it is not recommended or safe to do at this time or for the foreseeable future.**
 
-*Below is a list which shows that Lightning Network has been drowning in technical issues, bugs, flaws, and exploits. It's over-promised tech that doesn't deliver on decentralization and a long ways from being functional and safe for users.*
+*Below is a list which shows that Lightning Network has been drowning in technical issues, bugs, flaws, critiques, and exploits. It's over-promised tech that doesn't deliver on decentralization and a long ways from being functional and safe for users.*
 
 ### 2017
 
@@ -109,6 +109,8 @@ October 21, 2020: Two Lightning Network CVE's were made public:
 October 29, 2020: PSA: High onchain BTC fees have impact for you Lightning Channels: Pre negotiated fees might not be sufficient for your commitment tx to be included in case of force close https://archive.is/ECr4p
 
 ### 2021
+
+February 18, 2021: The Lightning Network (LN) is semi-custodial banking https://old.reddit.com/r/btc/comments/lml76q/the_lightning_network_ln_is_semicustodial_banking/gnwa42b/
 
 February 28, 2021: Congestion Attacks in Payment Channel Networks 
 * https://www.youtube.com/watch?v=3lzxdTMgdRw
