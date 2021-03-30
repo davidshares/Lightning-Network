@@ -8,13 +8,21 @@
 
 June 26, 2017: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
 
+December 15, 2017: How The Banks Bought Bitcoin (The truth about the lightning network) https://www.youtube.com/watch?v=UYHFrf5ci_g
+
 ### 2018
 
 January 20, 2018: Lightning Network May Not Solve Bitcoin’s Scaling ‘Trilemma’ https://www.coindesk.com/lightning-network-may-not-solve-bitcoins-scaling-trilemma
 
+February 18, 2018: Rick Falkvinge reacts to the Lightning Network https://www.youtube.com/watch?v=DFZOrtlQXWc
+
 February 21, 2018: Bitcoin Lightning Fraud? Laolu Is Building a ‘Watchtower’ to Fight It https://www.coindesk.com/laolu-building-watchtower-fight-bitcoin-lightning-fraud
 
 March 21, 2018: Lightning Network DDoS Sends 20% of Nodes Down https://www.trustnodes.com/2018/03/21/lightning-network-ddos-sends-20-nodes
+
+May 29, 2018: Why The Lightning Network Does not Scale https://www.youtube.com/watch?v=yGrUOLsC9cw
+
+April 11, 2018: How Bitcoin Lightning Channels Work https://www.youtube.com/watch?v=pOZaLbUUZUs
 
 June 21, 2018: The 3 biggest LN flaws plus further critiques https://www.quora.com/What-is-the-biggest-flaw-of-the-Bitcoin-Lightning-network/answer/Marius-Kramer
 
@@ -63,6 +71,10 @@ March 17, 2019: TIL that Lightning Network conceptual design and focus to layer 
 * https://old.reddit.com/r/btc/comments/b201kd/til_that_lightning_network_conceptual_design_and/
 * https://archive.is/wgmEF
 
+March 22, 2019: Lightning Fails to Strike (Again) https://www.youtube.com/watch?v=AzaEd2RQuRw
+
+March 28, 2019: Visualizing HTLCs and the Lightning Network’s Dirty Little Secret https://medium.com/@peter_r/visualizing-htlcs-and-the-lightning-networks-dirty-little-secret-cb9b5773a0
+
 March 29, 2019: Analysis Shows Lightning Network Suffers From Trust Issues Exacerbated by Rising Fees https://news.bitcoin.com/analysis-shows-lightning-network-suffers-form-trust-issues-exacerbated-by-rising-fees/
 
 April 24, 2019: Forget 18 months: it’s now 30-50 years until Lightning Network is ready 
@@ -91,9 +103,13 @@ October 23, 2019: 4 BTC stolen using Lightning Network
 
 ### 2020
 
+January 1, 2020: The Final Word on the Lightning Network https://read.cash/@jonald_fyookball/the-final-word-on-the-lightning-network-de7e259c
+
 January 7, 2020: New paper on Lightning Network simulates lower & higher txn rates and summarize the rates of failed txns in Fig 22….at 7,000 transactions per day one-third of them fail https://blog.dshr.org/2020/01/bitcoins-lightning-network.html
 
 January 13, 2020: LN users are leaking their blockchain data by using centralized Lightning Network node operators and wallets. 90K LN non-cooperative channel closures were identified https://blog.bitmex.com/lightning-network-part-6-over-60000-non-cooperative-channel-closures/
+
+February 13, 2020: 8 Criticisms of Lightning Network https://old.reddit.com/r/btc/comments/f36wck/lightning/fhh2mav/
 
 February 18, 2020: Lightning Network is Vulnerable to Congestion Attacks https://medium.com/blockchains-huji/congestion-attacks-in-payment-channel-networks-b7ac37208389
 
