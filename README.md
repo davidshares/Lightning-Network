@@ -40,6 +40,7 @@ February 22, 2019: Listen to this great talk on the problems and complexities of
 
 February 23, 2019: 5 Things I Learned Getting Rekt on Lightning Network 
 * https://old.reddit.com/r/btc/comments/atx8jq/psa_important_video_to_watch_if_you_use_lightning/
+* https://medium.com/@mtidwell021/5-things-i-learned-un-rekting-myself-on-lightning-network-29016f175b61
 * https://www.youtube.com/watch?v=5fMv8MpzLgQ
 
 February 25, 2019: Lightning Network bank-wallet is "kind of centralized but it has to be this way if you want mass-adoption" 
