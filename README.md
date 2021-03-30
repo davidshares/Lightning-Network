@@ -46,7 +46,7 @@ February 25, 2019: Lightning Network bank-wallet is "kind of centralized but it 
 
 February 28, 2019: Decentralized path routing is still an unsolved problem for Lightning Network (currently "source routing" works at this scale) 
 * https://old.reddit.com/r/btc/comments/avt6ow/do_people_agree_with_andreas_antonopoulos_that/
-* https://twitter.com/aantonop/status/1101141308104560645
+* https://archive.is/PKrIi
 
 February 28, 2019: "Out of the 1,500 orders submitted on the first day using Lightning Network, only around 10 percent were successful" https://breakermag.com/i-ordered-lightning-pizza-and-lived-to-tell-the-tale/
 
