@@ -2,7 +2,7 @@
 
 **WARNING: If you try to use the Lightning Network (LN) you are at HIGH RISK of losing funds and it is not recommended or safe to do at this time or for the foreseeable future**
 
-*Below is a long list of links which shows that Lightning Network has been drowning in technical issues, bugs, flaws, and exploits. It's over-promised tech that doesn't deliver on decentralization and a long ways from being functional and safe for users.*
+*Below is a list which shows that Lightning Network has been drowning in technical issues, bugs, flaws, and exploits. It's over-promised tech that doesn't deliver on decentralization and a long ways from being functional and safe for users.*
 
 ### 2017
 
