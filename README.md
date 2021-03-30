@@ -110,6 +110,10 @@ October 29, 2020: PSA: High onchain BTC fees have impact for you Lightning Chann
 
 ### 2021
 
+February 28, 2021: Congestion Attacks in Payment Channel Networks 
+* https://www.youtube.com/watch?v=3lzxdTMgdRw
+* https://fc21.ifca.ai/papers/70.pdf
+
 March 15, 2021: A recap of events over the last 6 years of Lightning Network https://threadreaderapp.com/thread/1366411780633862147.html
 
 March 26, 2021: Real-life example of a LN user trying to use Lightning but encounters various problems and errors:
