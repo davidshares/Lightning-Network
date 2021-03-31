@@ -142,3 +142,9 @@ March 26, 2021: Real-life example of a LN user trying to use Lightning but encou
 * https://colintalkscrypto.com/files/user_fails_to_use_lightningnetwork.png
 
 March 28, 2021: Real-life example of a LN user trying to use various Lightning mobile wallets and none of them worked (multiple errors for each) https://archive.is/klS2X
+
+***
+
+### Contributing 
+
+If you want to contribute to this list, please see [CONTRIBUTING.md](/CONTRIBUTING.md).
