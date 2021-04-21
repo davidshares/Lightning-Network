@@ -147,6 +147,8 @@ March 26, 2021: Real-life example of a LN user trying to use Lightning but encou
 
 March 28, 2021: Real-life example of a LN user trying to use various Lightning mobile wallets and none of them worked (multiple errors for each) https://archive.is/klS2X
 
+April 13, 2021: Video discussion with LN engineer about pros and cons of LN. Tidbits include that LN transactions always require onchain transactions to be finalized/settled (problematic due to high fees), initial payment channels still an issue for new users, using LN service providers is a trust issue, not decentralized, using zero-conf to create channels is highly risky, must be online to use LN, constant backups needed so you don't lose funds, LN needs more forks to work (such as Taproot and El-Too) https://odysee.com/@DigitalCashNetwork:c/Lightning-Network:c
+
 ***
 
 ### Contributing 
