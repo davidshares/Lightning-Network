@@ -107,7 +107,9 @@ October 23, 2019: 4 BTC stolen using Lightning Network
 
 January 1, 2020: The Final Word on the Lightning Network https://read.cash/@jonald_fyookball/the-final-word-on-the-lightning-network-de7e259c
 
-January 7, 2020: New paper on Lightning Network simulates lower & higher txn rates and summarize the rates of failed txns in Fig 22….at 7,000 transactions per day one-third of them fail https://blog.dshr.org/2020/01/bitcoins-lightning-network.html
+January 7, 2020: New paper on Lightning Network simulates lower & higher txn rates and summarize the rates of failed txns in Fig 22….at 7,000 transactions per day one-third of them fail 
+* https://blog.dshr.org/2020/01/bitcoins-lightning-network.html
+* https://arxiv.org/pdf/1911.09432.pdf
 
 January 13, 2020: LN users are leaking their blockchain data by using centralized Lightning Network node operators and wallets. 90K LN non-cooperative channel closures were identified https://blog.bitmex.com/lightning-network-part-6-over-60000-non-cooperative-channel-closures/
 
@@ -116,6 +118,8 @@ February 13, 2020: 8 Criticisms of Lightning Network https://old.reddit.com/r/bt
 February 18, 2020: Lightning Network is Vulnerable to Congestion Attacks https://medium.com/blockchains-huji/congestion-attacks-in-payment-channel-networks-b7ac37208389
 
 February 20, 2020: Bitcoin’s Lightning Network Is Growing ‘Increasingly Centralized,’ Researchers Find https://www.coindesk.com/bitcoins-lightning-network-is-growing-increasingly-centralized-researchers-find
+
+August 27, 2020: Flood & Loot: A Systemic Attack On The Lightning Network https://arxiv.org/pdf/2006.08513.pdf
 
 September 2020: LN channels cannot hold more than 483 htlcs at a time, regardless of the channel capacity. Sending 483 micro-payments to yourself and holding on to the htlcs is enough to incapacitate a channel for up to two weeks https://archive.is/ldWRd
 
