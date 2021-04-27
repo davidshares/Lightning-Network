@@ -149,6 +149,8 @@ March 28, 2021: Real-life example of a LN user trying to use various Lightning m
 
 April 13, 2021: Video discussion with LN engineer about pros and cons of LN. Tidbits include that LN transactions always require onchain transactions to be finalized/settled (problematic due to high fees), initial payment channels still an issue for new users, using LN service providers is a trust issue, not decentralized, using zero-conf to create channels is highly risky, must be online to use LN, constant backups needed so you don't lose funds, LN needs more forks to work (such as Taproot and El-Too) https://odysee.com/@DigitalCashNetwork:c/Lightning-Network:c
 
+April 21, 2021: Popular Lightning wallet Phoenix had to shut down on-the-fly channel creations and other features due to high BTC transaction fees, which is another example of how poorly LN operates with a high fee base layer. https://archive.ph/RRzvU#high-mempool-size-impacts
+
 ***
 
 ### Contributing 
