@@ -161,7 +161,9 @@ October 4, 2021: Three new Lightning Network vulnerabilities were disclosed affe
 
 ### 2022
 
-February 21, 2022: Lightning Network faces many challenges, such as: 1) while technically two-party payment channels can exist off-chain forever, in practice they suffer from liquidity depletion bounding their lifetime, 2) two-party payment channels occupy significant block space per user when they get opened/closed, setting a bound on the number of LN users concurrently, and 3) multi-hop trust-minimized routing may cause even more channel closings (in-flight HTLCs leading to onchain claims).
+February 16, 2022: Lightning Network speed update - as a service, it is hard to choose reliable LN routing peers that forward payments quickly. Plenty of nodes have bad response times and do not maintain proper liquidity in their channels, which makes payments slow. https://blog.lnrouter.app/lightning-payment-speed-2022
+
+February 21, 2022: Lightning Network faces many challenges, such as 1) while technically two-party payment channels can exist off-chain forever, in practice they suffer from liquidity depletion bounding their lifetime, 2) two-party payment channels occupy significant block space per user when they get opened/closed, setting a bound on the number of LN users concurrently, and 3) multi-hop trust-minimized routing may cause even more channel closings (in-flight HTLCs leading to onchain claims).
 * https://coinpool.dev/v0.1.pdf
 * https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019968.html
 
