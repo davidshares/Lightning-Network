@@ -159,6 +159,12 @@ September 26, 2021: Why the Bitcoin Lightning Network is Satoshi Nakamoto’s Wo
 
 October 4, 2021: Three new Lightning Network vulnerabilities were disclosed affecting multiple LN implementations. These vulnerabilities can be exploited in a wide range of attacks, going from fee blackmailing of node operators, burning liquidity of your competing LSPs or even stealing your counterparty channel balance if you avail mining capabilities. Exercise of the vulnerability revealed that a majority of the balance funds can be at loss. CVE-2021-41591/ CVE-2021-41592 / CVE-2021-41593 "Dust HTLC Exposure Considered Harmful." https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003257.html
 
+### 2022
+
+February 21, 2022: Lightning Network faces many challenges, such as: 1) while technically two-party payment channels can exist off-chain forever, in practice they suffer from liquidity depletion bounding their lifetime, 2) two-party payment channels occupy significant block space per user when they get opened/closed, setting a bound on the number of LN users concurrently, and 3) multi-hop trust-minimized routing may cause even more channel closings (in-flight HTLCs leading to onchain claims).
+* https://coinpool.dev/v0.1.pdf
+* https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019968.html
+
 ***
 
 ### Contributing 
