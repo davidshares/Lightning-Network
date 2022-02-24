@@ -10,6 +10,9 @@ February 28, 2015: Lightning Network whitepaper is officially released
 * https://web.archive.org/web/20150301065655/http://lightning.network/lightning-network-paper-DRAFT-0.5.pdf
 * https://web.archive.org/web/20150301190111/http://lightning.network/lightning-network.pdf
 
+### 2016
+February 28, 2016: One of the first looks and deep dives into theoretical issues with Lightning Network, exploring various subjects such as network semi-decentralized topography, routing problems, liquidity issues, privacy, fees, channel balancing, and DDoS attacks. https://www.coindesk.com/markets/2016/02/28/lightnings-balancing-act-challenges-face-bitcoins-scalability-savior/
+
 ### 2017
 
 June 26, 2017: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
