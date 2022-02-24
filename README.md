@@ -159,6 +159,8 @@ September 26, 2021: Why the Bitcoin Lightning Network is Satoshi Nakamoto’s Wo
 
 October 4, 2021: Three new Lightning Network vulnerabilities were disclosed affecting multiple LN implementations. These vulnerabilities can be exploited in a wide range of attacks, going from fee blackmailing of node operators, burning liquidity of your competing LSPs or even stealing your counterparty channel balance if you avail mining capabilities. Exercise of the vulnerability revealed that a majority of the balance funds can be at loss. CVE-2021-41591/ CVE-2021-41592 / CVE-2021-41593 "Dust HTLC Exposure Considered Harmful." https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003257.html
 
+November 3, 2021: Lightning Network channel jamming is when a malicious entity blocks up liquidity in the lightning network, by making a payment to themselves, via third party channels and then never revealing the secret, such that the payment never completes. The main idea behind jamming is occupying the capabilities of routing nodes to forward payments by making fake payments and never finalizing them. For the attack duration, it becomes impossible for routing nodes to forward other (honest) payments. To jam certain channels, an attacker pretends to make a payment to themself via those channels, and never releases the secret on the receiver side. https://blog.bitmex.com/preventing-channel-jamming/
+
 ### 2022
 
 February 16, 2022: Lightning Network speed update - as a service, it is hard to choose reliable LN routing peers that forward payments quickly. Plenty of nodes have bad response times and do not maintain proper liquidity in their channels, which makes payments slow. https://blog.lnrouter.app/lightning-payment-speed-2022
