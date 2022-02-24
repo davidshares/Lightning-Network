@@ -27,6 +27,8 @@ February 18, 2018: Rick Falkvinge reacts to the Lightning Network https://www.yo
 
 February 21, 2018: Bitcoin Lightning Fraud? Laolu Is Building a ‘Watchtower’ to Fight It https://www.coindesk.com/laolu-building-watchtower-fight-bitcoin-lightning-fraud
 
+March 13, 2018: New form of 51% attack via lightning's revocation system possible? https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-March/001080.html
+
 March 21, 2018: Lightning Network DDoS Sends 20% of Nodes Down https://www.trustnodes.com/2018/03/21/lightning-network-ddos-sends-20-nodes
 
 May 29, 2018: Why The Lightning Network Does not Scale https://www.youtube.com/watch?v=yGrUOLsC9cw
