@@ -162,6 +162,8 @@ April 13, 2021: Video discussion with LN engineer about pros and cons of LN. Tid
 
 April 21, 2021: Popular Lightning wallet Phoenix had to shut down on-the-fly channel creations and other features due to high BTC transaction fees, which is another example of how poorly LN operates with a high fee base layer. https://archive.ph/RRzvU#high-mempool-size-impacts
 
+September 13, 2021: CoinDesk research covers Lightning Network vulnerabilities and attack vectors such as griefing, eclipse attack, pinning, and floot & loot. https://downloads.coindesk.com/research/Lightning+Network+-+CoinDesk+Research+-+2021.09.pdf
+
 September 20, 2021: Custodial Lightning Network Service Attack Discovered — Hacker Strikes 6 LN Custodians
 * https://news.bitcoin.com/custodial-lightning-network-service-attack-discovered-by-ln-newbie-hacker-strikes-6-ln-custodians/
 * https://web.archive.org/web/20210918093307/https://old.reddit.com/r/Bitcoin/comments/pqjcvo/stealing_sats_from_the_lightning_network/
