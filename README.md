@@ -4,6 +4,12 @@
 
 *Below is a list which shows that Lightning Network has been drowning in technical issues, bugs, flaws, critiques, and exploits. It's over-promised tech that doesn't deliver on decentralization and a long ways from being functional and safe for users.*
 
+### 2015
+February 28, 2015: Lightning Network whitepaper is officially released
+* https://web.archive.org/web/20150228162703/https://lightning.network/
+* https://web.archive.org/web/20150301065655/http://lightning.network/lightning-network-paper-DRAFT-0.5.pdf
+* https://web.archive.org/web/20150301190111/http://lightning.network/lightning-network.pdf
+
 ### 2017
 
 June 26, 2017: Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
