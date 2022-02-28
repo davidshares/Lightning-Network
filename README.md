@@ -182,6 +182,8 @@ February 19, 2022: Sharp-eyed Bitcoin community members discover that Lightning 
 * https://twitter.com/L0laL33tz/status/1495075411017048064
 * https://twitter.com/L0laL33tz/status/1495381620668383234
 
+February 19, 2022: Lightning Network user: "Of my node's last 100,000 forwarded payments, only 932 succeeded." https://twitter.com/fiatjaf/status/1495037429144825860
+
 February 21, 2022: Lightning Network faces many challenges, such as 1) while technically two-party payment channels can exist off-chain forever, in practice they suffer from liquidity depletion bounding their lifetime, 2) two-party payment channels occupy significant block space per user when they get opened/closed, setting a bound on the number of LN users concurrently, and 3) multi-hop trust-minimized routing may cause even more channel closings (in-flight HTLCs leading to onchain claims).
 * https://coinpool.dev/v0.1.pdf
 * https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019968.html
