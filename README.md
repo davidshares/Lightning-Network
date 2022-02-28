@@ -178,6 +178,10 @@ November 3, 2021: Lightning Network channel jamming is when a malicious entity b
 
 February 16, 2022: Lightning Network speed update - as a service, it is hard to choose reliable LN routing peers that forward payments quickly. Plenty of nodes have bad response times and do not maintain proper liquidity in their channels, which makes payments slow. https://blog.lnrouter.app/lightning-payment-speed-2022
 
+February 19, 2022: Sharp-eyed Bitcoin community members discover that Lightning Network developers working for Lightning Labs are part of the World Economic Forum (WEF). The WEF is well known for being a world government sanctioned and banker elite conglomerate that runs the global financial system in a centralized top-down authoritarian way. This discovery helps to shine light on the centralized goals of the Lightning Network.  
+* https://twitter.com/L0laL33tz/status/1495075411017048064
+* https://twitter.com/L0laL33tz/status/1495381620668383234
+
 February 21, 2022: Lightning Network faces many challenges, such as 1) while technically two-party payment channels can exist off-chain forever, in practice they suffer from liquidity depletion bounding their lifetime, 2) two-party payment channels occupy significant block space per user when they get opened/closed, setting a bound on the number of LN users concurrently, and 3) multi-hop trust-minimized routing may cause even more channel closings (in-flight HTLCs leading to onchain claims).
 * https://coinpool.dev/v0.1.pdf
 * https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019968.html
