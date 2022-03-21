@@ -176,6 +176,10 @@ November 3, 2021: Lightning Network channel jamming is when a malicious entity b
 
 ### 2022
 
+January 9, 2022: A Critical Review of the Lightning Network
+* https://old.reddit.com/r/CryptoReality/comments/rzp2oq/a_critical_review_of_the_lightning_network/
+* https://archive.ph/yNaBl
+
 February 16, 2022: Lightning Network speed update - as a service, it is hard to choose reliable LN routing peers that forward payments quickly. Plenty of nodes have bad response times and do not maintain proper liquidity in their channels, which makes payments slow. https://blog.lnrouter.app/lightning-payment-speed-2022
 
 February 19, 2022: Sharp-eyed Bitcoin community members discover that Lightning Network developers working for Lightning Labs are part of the World Economic Forum (WEF). The WEF is well known for being a world government sanctioned and banker elite conglomerate that runs the global financial system in a centralized top-down authoritarian way. This discovery helps to shine light on the centralized goals of the Lightning Network.  
