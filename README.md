@@ -168,7 +168,10 @@ September 20, 2021: Custodial Lightning Network Service Attack Discovered — Ha
 * https://news.bitcoin.com/custodial-lightning-network-service-attack-discovered-by-ln-newbie-hacker-strikes-6-ln-custodians/
 * https://web.archive.org/web/20210918093307/https://old.reddit.com/r/Bitcoin/comments/pqjcvo/stealing_sats_from_the_lightning_network/
 
-September 26, 2021: Why the Bitcoin Lightning Network is Satoshi Nakamoto’s Worst Nightmare https://cryptowhale.medium.com/why-the-bitcoin-lightning-network-is-satoshi-nakamotos-worst-nightmare-8402be4a4e73
+September 26, 2021: 
+Why the Bitcoin Lightning Network is Satoshi Nakamoto’s Worst Nightmare 
+* https://cryptowhale.medium.com/why-the-bitcoin-lightning-network-is-satoshi-nakamotos-worst-nightmare-8402be4a4e73
+* https://archive.ph/xjPfN
 
 October 4, 2021: Three new Lightning Network vulnerabilities were disclosed affecting multiple LN implementations. These vulnerabilities can be exploited in a wide range of attacks, going from fee blackmailing of node operators, burning liquidity of your competing LSPs or even stealing your counterparty channel balance if you avail mining capabilities. Exercise of the vulnerability revealed that a majority of the balance funds can be at loss. CVE-2021-41591/ CVE-2021-41592 / CVE-2021-41593 "Dust HTLC Exposure Considered Harmful." https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003257.html
 
