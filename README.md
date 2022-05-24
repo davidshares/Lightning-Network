@@ -10,6 +10,10 @@ February 28, 2015: Lightning Network whitepaper is officially released
 * https://web.archive.org/web/20150301065655/http://lightning.network/lightning-network-paper-DRAFT-0.5.pdf
 * https://web.archive.org/web/20150301190111/http://lightning.network/lightning-network.pdf
 
+May 26, 2015: Joseph Poon and Tadge Dryja address scalability issues and the Lightning Network
+* https://www.youtube.com/watch?v=fBS_ieDwQ9k
+* https://streamable.com/j1cza 
+
 ### 2016
 February 28, 2016: One of the first looks and deep dives into theoretical issues with Lightning Network, exploring various subjects such as network semi-decentralized topography, routing problems, liquidity issues, privacy, fees, channel balancing, and DDoS attacks. https://www.coindesk.com/markets/2016/02/28/lightnings-balancing-act-challenges-face-bitcoins-scalability-savior/
 
