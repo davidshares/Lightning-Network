@@ -2,7 +2,7 @@
 
 **WARNING: If you try to use the Lightning Network (LN) you are at HIGH RISK of losing funds and it is not recommended or safe to do at this time or for the foreseeable future.**
 
-*Below is a list which shows that Lightning Network has been drowning in technical issues, bugs, flaws, critiques, and exploits. It's over-promised tech that doesn't deliver on decentralization and a long ways from being functional and safe for users.*
+*Below is a chronological list which shows that Lightning Network has been drowning in technical issues, bugs, flaws, critiques, and exploits. It's over-promised tech that doesn't deliver on decentralization and a long ways from being functional and safe for users.*
 
 ### 2015
 February 28, 2015: Lightning Network whitepaper is officially released
@@ -191,6 +191,8 @@ February 19, 2022: Lightning Network user: "Of my node's last 100,000 forwarded 
 February 21, 2022: Lightning Network faces many challenges, such as 1) while technically two-party payment channels can exist off-chain forever, in practice they suffer from liquidity depletion bounding their lifetime, 2) two-party payment channels occupy significant block space per user when they get opened/closed, setting a bound on the number of LN users concurrently, and 3) multi-hop trust-minimized routing may cause even more channel closings (in-flight HTLCs leading to onchain claims).
 * https://coinpool.dev/v0.1.pdf
 * https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019968.html
+
+April 4, 2022: Lightning Network -- Fundamental Limitations. Basic arithmetic is used to derive limitations of the Lightning Network (LN). https://www.truthcoin.info/blog/lightning-limitations/
 
 ***
 
