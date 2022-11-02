@@ -199,7 +199,27 @@ February 21, 2022: Lightning Network faces many challenges, such as 1) while tec
 * https://coinpool.dev/v0.1.pdf
 * https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019968.html
 
-April 4, 2022: Lightning Network -- Fundamental Limitations. Basic arithmetic is used to derive limitations of the Lightning Network (LN). https://www.truthcoin.info/blog/lightning-limitations/
+April 4, 2022: Lightning Network -- Fundamental Limitations. Basic arithmetic is used to derive limitations of the Lightning Network (LN) https://www.truthcoin.info/blog/lightning-limitations/
+
+April 8, 2022: Lightning Network developer writes, "Lightning Network is - as of now - UNRELIABLE by design." https://twitter.com/renepickhardt/status/1512324320151977990
+
+May 3, 2022: Short Paper: A Centrality Analysis of the Lightning Network - "Overall, we can deduce that the Lightning Network is highly centralized." 
+* https://fc22.ifca.ai/preproceedings/39.pdf
+* https://fc22.ifca.ai/program.html
+
+June 30, 2022: Over half of all Lightning Network capacity is controlled by a total of 4 entities. One of the key concerns with a network like Lightning is that it becomes more and more centralized over time, not less (unlike L1). https://twitter.com/sethforprivacy/status/1542477206672359424
+
+August 5, 2022: Lightning Network Dev Confessions - LN does not scale, has bad privacy, large payments don't work, too complicated, liquidity one directional, hard to run a node, etc. 
+* https://twitter.com/sentosumosaba/status/1557328438536843265
+* https://www.youtube.com/watch?v=BjFjK-f9ts0
+
+August 10, 2022: University of Illinois researchers have discovered a critical vulnerability in Bitcoin’s most popular second layer scaling protocol, the Lightning Network https://protos.com/researchers-discover-critical-bitcoin-lightning-network-vulnerability/
+
+October 10, 2022: Bug freezes bitcoin inside Lightning Network for hours after a critical validation bug was found https://protos.com/taproot-bug-freezes-bitcoin-inside-lightning-network-for-hours/
+
+October 18, 2022: The Bitcoin Lightning Network SUCKS - Here's Why https://www.youtube.com/watch?v=2kvT0nu8z_4
+
+November 1, 2022: Lightning Network releases emergency update after another critical bug on LND nodes is discovered https://cointelegraph.com/news/lightning-network-releases-emergency-update-after-critical-bug-on-lnd-nodes
 
 ***
 
