@@ -221,6 +221,10 @@ October 18, 2022: The Bitcoin Lightning Network SUCKS - Here's Why https://www.y
 
 November 1, 2022: Lightning Network releases emergency update after another critical bug on LND nodes is discovered https://cointelegraph.com/news/lightning-network-releases-emergency-update-after-critical-bug-on-lnd-nodes
 
+### 2023 and Beyond
+
+Unforunately, the Lightning Network has been a disappointment since its inception in 2015. It has been an utter failure and has not delivered, and instead has led to centralization and reliance on custodial services and third-party companies. We have decided to stop following the development of the Lightning Network in this repository, as we believe it is a waste of time and resources. We recommend using a more reliable, secure, functional, and decentralized cryptocurrency, such as Bitcoin Cash (BCH), which has been working just fine since the Genesis Block in 2009.
+
 ***
 
 ### Contributing 
